@@ -1,0 +1,40 @@
+{
+   "app": {
+      "icon_color": "#FF0000",
+      "launch": {
+         "web_url": "https://www.bilibili.com/video/tech-popular-science-1.html"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://static.hdslb.com/images/favicon.ico"
+      }, {
+         "size": 48,
+         "url": "https://static.hdslb.com/images/favicon.ico"
+      }, {
+         "size": 64,
+         "url": "https://static.hdslb.com/images/favicon.ico"
+      }, {
+         "size": 96,
+         "url": "https://static.hdslb.com/images/favicon.ico"
+      }, {
+         "size": 128,
+         "url": "https://static.hdslb.com/images/favicon.ico"
+      }, {
+         "size": 256,
+         "url": "https://static.hdslb.com/images/favicon.ico"
+      } ],
+	  "theme_color": "rgba(32,32,32,1)"
+   },
+   "description": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐。",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "yfG61Xx3kqovK4A4Phw4EMY+FULzKFmbbgPTTtyzrIg=",
+   "name": "哔哩哔哩",
+   "version": "2019.6.20.42895"
+}
