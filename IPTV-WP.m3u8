@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1, CCTV-1(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1, CCTV-2(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1, CCTV-3(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+#EXTINF:-1, CCTV-4(高清8M)
+http://223.110.241.203:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+#EXTINF:-1, CCTV-5(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1, CCTV5+(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1, CCTV-6(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1, CCTV-7(高清8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-cctv7
+#EXTINF:-1, CCTV-8(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1, CCTV-9(高清8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-cctv9
+#EXTINF:-1, CCTV-10(高清8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-cctv10
+#EXTINF:-1, CCTV-11(高清)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1, CCTV-12(高清8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-cctv12
+#EXTINF:-1, CCTV-13(高清)
+http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+#EXTINF:-1, CCTV-14(高清-8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-cctv14
+
+
+#EXTINF:-1, 北京卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1, 东方卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+#EXTINF:-1, 深圳卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
+#EXTINF:-1, 天津卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
+#EXTINF:-1, 重庆卫视(高清8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-chongqingstv
+
+#EXTINF:-1, 江苏卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1, 浙江卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+#EXTINF:-1, 湖南卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+#EXTINF:-1, 广东卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_GUANGDONG-CQ/G_GUANGDONG-CQ/
+#EXTINF:-1, 黑龙江卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
+#EXTINF:-1, 山东卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ/
+#EXTINF:-1, 湖北卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
+#EXTINF:-1, 辽宁卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
+#EXTINF:-1, 安徽卫视(高清8M)
+http://223.110.241.204:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
+#EXTINF:-1, 江西卫视(高清4M)
+http://183.207.248.71:80/cntv/live1/channelName/jiangxistv
+#EXTINF:-1, 东南卫视(高清)
+http://223.110.241.204:6610/cntv/live1/dongnanstv/dongnanstv
+
+#EXTINF:-1, 北京纪实频道(高清8M)
+http://183.207.248.71:80/cntv/live1/channelName/HD-8000k-1080P-beijingjishi
+
+
+
+#EXTINF:0,新疆卫视(标清)
+http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+#EXTINF:0,云南卫视(标清)
+http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+#EXTINF:0,河南卫视(标清)
+http://223.110.241.204:6610/gitv/live1/HENAN/HENAN/
+#EXTINF:0,吉林卫视(标清)
+http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/
+#EXTINF:0,厦门卫视(标清)
+http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+#EXTINF:0,农林卫视(标清)
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:0,海南卫视(标清)
+http://223.110.241.204:6610/gitv/live1/LYWS/LYWS/
+#EXTINF:0,中国交通频道
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+
+
+
